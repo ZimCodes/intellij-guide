@@ -1,6 +1,6 @@
-# Intellij Theme Guide
+# Intellij Guide
 
-A quick reference guide for creating IntelliJ themes.
+A quick reference guide for intellij platform development.
 
 ## Guides
 
